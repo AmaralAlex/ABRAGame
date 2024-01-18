@@ -1,6 +1,6 @@
 <h1>ABRAGame: Automatic Bit Rate Adjustment for Videogames</h1>
  <br> The content of the ABRAGame repository was developed as part of the undergraduate thesis “Quality of Experience in Video Games: Automatic Bitrate Adjustment for an Interactive and Real-Time Video Game Streaming Platform”. . <br/>
- <br>Degree: Electrical Engineering, Telecommunications specialization. <br/>
+ <br>Degree: Electrical Engineering - Telecommunications specialization. <br/>
 <br>Authors: Santiago Erramuspe Reyes, Alejandra Armendariz Voelker, and Alex Daniel Amaral Bordón.<br/>
 <br>Advisor: José Joskowicz.<br/>
 <br>Universidad de la República (UdelaR)<br/>
