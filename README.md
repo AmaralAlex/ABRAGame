@@ -2,7 +2,7 @@
  <br> The content of the ABRAGame repository was developed as part of the undergraduate thesis: <i> “Quality of Experience in Video Games: Automatic Bitrate Adjustment for an Interactive and Real-Time Video Game Streaming Platform”.</i> <br/>
  <br>Degree: Electrical Engineering - Telecommunications specialization. <br/>
 <br><b>Authors: </b> <i>Santiago Erramuspe Reyes, Alejandra Armendariz Voelker, and Alex Daniel Amaral Bordón.</i><br/>
-<br><b>Advisor:</b> <i>José Joskowicz.</i><br/>
+<br><b>Advisor:</b> <i> Dr. José Joskowicz.</i><br/>
 <br>Universidad de la República (UdelaR)<br/>
 <br><i>Video explainer:</i> https://youtu.be/vxP0k_xPK04 <br/>
 <br>For more information on the project, you can find its publication at the following link:
